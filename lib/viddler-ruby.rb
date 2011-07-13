@@ -1,6 +1,6 @@
 $LOAD_PATH.unshift File.dirname(__FILE__)
 
-require 'rest-client'
+require 'rest_client'
 require 'json'
 require 'active_support'
 
